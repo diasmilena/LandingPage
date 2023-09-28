@@ -2,7 +2,7 @@
 
 * Projeto feito para transfomar uma paixão em algo material.
 * É uma página de apresentação de quadros do Frank Ocean.
-* Feito para aplicar os conceitos de animações em css.
+* Feito para aplicar os conceitos de animação e responsividade em css.
 * Deselvolvido somente em HTML e CSS.
 
 [Acesse diretamente este site clicando aqui.
